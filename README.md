@@ -1,2 +1,4 @@
 # local-repo
+ *bold*
+ **italic**
  
